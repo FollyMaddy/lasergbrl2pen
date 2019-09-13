@@ -18,7 +18,7 @@ x86_64-w64-mingw32-gcc -o lasergbrl2pen_64.exe lasergbrl2pen.c
 
 Nothing has to be installed to run this on windows.
 
-Can be run is cmd in the commandline or open your file with lasergbrl2pen_64.exe.
+Can be run in cmd with a commandline or open your file with lasergbrl2pen_64.exe.
 
 
 If my program becomes better i will add more information about the project.
