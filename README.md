@@ -20,6 +20,8 @@ Nothing has to be installed to run this on windows.
 
 Can be run in cmd with a commandline or open your file with lasergbrl2pen_64.exe.
 
+A windows 64 bit binary is added !
+
 
 If my program becomes better i will add more information about the project.
 (this is it for now)
