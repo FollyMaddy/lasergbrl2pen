@@ -4,7 +4,7 @@ This program is created to change lasergbrl g-code into g-code for marlin based 
 
 The laserintesity is converted into Z-depth.
 
-A choise to make Up-Down-Up motion for each coordinate is added (G80/G81 simulation)
+A choice to make Up-Down-Up motion for each coordinate is added (G80/G81 simulation)
 
 Compilation on linux :
 
